@@ -2,7 +2,7 @@
 
 _Congratulations, you've completed this exercise and learned a lot about GitHub Pages and Jekyll!_
 
-<img src="https://octodex.github.com/images/constructocat2.jpg" alt="celebrate" width=300 align=right>
+<img src="../images/celebration-constructocat.svg" alt="celebrate" width=300 align=right>
 
 Here's a recap of your accomplishments:
 
